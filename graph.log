@@ -1,0 +1,16 @@
+* e7bc356 Se agrega commits.txt
+*   85bf2b4 Merge branch 'main' of https://github.com/Jon-Cerr/curso-git-jmircha
+|\  
+| * c728751 Se elimina contenido
+* | 75dc99f Se eliminaron estilos innecesarios
+|/  
+*   09b8e46 Merge branch 'js'
+|\  
+| * bf479ce Creando index.js
+* | 4e32ba1 Creando estilos css
+|/  
+* 756179d Ignorando archivos .exe
+* f78038c Creando licencia del repositorio.
+* 65173b4 Agregando mas contneido al README
+* 4c7fac4 Agregando contenido inicial en el README
+* 7faeadf Primer commit :D
