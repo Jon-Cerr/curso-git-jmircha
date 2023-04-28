@@ -1,0 +1,67 @@
+commit 85bf2b4575184fc0d479ee9167b320b88576ee87
+Merge: 75dc99f c728751
+Author: Jon-Cerr <alancomando16@gmail.com>
+Date:   Fri Apr 28 13:40:37 2023 -0600
+
+    Merge branch 'main' of https://github.com/Jon-Cerr/curso-git-jmircha
+
+commit 75dc99f451c2e8a00c97ad6af698e88f1f06b3d1
+Author: Jon-Cerr <alancomando16@gmail.com>
+Date:   Fri Apr 28 13:30:34 2023 -0600
+
+    Se eliminaron estilos innecesarios
+
+commit c728751586bdcd9fb4259110ed9a9377ce61b9ed
+Author: Jon-Cerr <alancomando16@gmail.com>
+Date:   Fri Apr 28 13:30:34 2023 -0600
+
+    Se elimina contenido
+
+commit 09b8e46dccafc52f29d9749c727d0e13bf82d7b7
+Merge: 4e32ba1 bf479ce
+Author: Jon-Cerr <alancomando16@gmail.com>
+Date:   Fri Apr 28 13:00:59 2023 -0600
+
+    Merge branch 'js'
+
+commit bf479ceaa6f3c62862f49b4d98a4fc23ccfee5df
+Author: Jon-Cerr <alancomando16@gmail.com>
+Date:   Fri Apr 28 12:54:07 2023 -0600
+
+    Creando index.js
+
+commit 4e32ba17de48daf52b1d34fcd164e9f0590f5201
+Author: Jon-Cerr <alancomando16@gmail.com>
+Date:   Fri Apr 28 12:50:08 2023 -0600
+
+    Creando estilos css
+
+commit 756179d82445d69377517860d62094bd6d6e086d
+Author: Jon-Cerr <alancomando16@gmail.com>
+Date:   Thu Apr 27 14:45:23 2023 -0600
+
+    Ignorando archivos .exe
+
+commit f78038cffeb7830052aa0a1b4722e2eef57b2be6
+Author: Jonathan Cerritos <109481604+Jon-Cerr@users.noreply.github.com>
+Date:   Thu Apr 27 14:13:38 2023 -0600
+
+    Creando licencia del repositorio.
+
+commit 65173b4e1fb5382f9ac7e8975445d9dd78b88f4a
+Author: Jon-Cerr <alancomando16@gmail.com>
+Date:   Thu Apr 27 13:52:55 2023 -0600
+
+    Agregando mas contneido al README
+
+commit 4c7fac4070a23b42e9ab5dc0154f2da7802fba02
+Author: Jon-Cerr <alancomando16@gmail.com>
+Date:   Thu Apr 27 13:20:30 2023 -0600
+
+    Agregando contenido inicial en el README
+
+commit 7faeadfd005b5f9d3ecb2839ff7c3e2370156f18
+Author: Jon-Cerr <alancomando16@gmail.com>
+Date:   Thu Apr 27 13:16:09 2023 -0600
+
+    Primer commit :D
