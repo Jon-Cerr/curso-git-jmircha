@@ -2,6 +2,4 @@
 
 Este es el curso de Git y GitHub impartido por jonmircha.
 
-Agregando mas contenido al README.
-
-Cambio de prueba.
+Git es lo mejor del mundo.
